@@ -1,1 +1,2 @@
 echo "please go thorugh the terraform script"
+please practice the code
