@@ -1,3 +1,5 @@
 echo "please go thorugh the terraform script"
 please practice the code
 added lines from remotely.
+please complete this course asap.
+
